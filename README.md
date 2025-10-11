@@ -11,5 +11,4 @@
 
 </div>
 
-> 更新
-https://github.com/vodtv/plus/releases
+> 更新 https://github.com/vodtv/plus/releases
